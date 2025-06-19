@@ -1,4 +1,5 @@
 Music playlist manger app 
+
 Welcome to the music manager app where you can rate your favorite songs and enjoy 
 some recommendations. 
 The music manager helps the user find their favorite songs and helps them manage them. 
@@ -11,7 +12,7 @@ be displayed, they will also be an average button where the user will click on t
 and the average will be displayed, they will be a return button where the user will return to 
 the main screen and exit the app. 
 
-This a link to my GitHub 
+This a link to my GitHub drop to feedback branch to access 
 GitHub - VCSTDN2024/imad5112-practicum-2025-st10479733Vutlhari: imad5112
 practicum-2025-st10479733Vutlhari created by GitHub Classroom
 
