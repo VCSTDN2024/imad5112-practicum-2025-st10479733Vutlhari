@@ -25,3 +25,4 @@ practicum-2025-st10479733Vutlhari created by GitHub Classroom
 
 ![Screenshot 2025-06-19 143319](https://github.com/user-attachments/assets/0bb1eaea-e9c5-47ae-8d6d-9cd41d6d0cd7)
 
+![image](https://github.com/user-attachments/assets/5c99e055-616c-48a5-bd6f-f5690fbf3709)
