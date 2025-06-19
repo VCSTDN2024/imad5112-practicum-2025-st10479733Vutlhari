@@ -14,7 +14,7 @@ import androidx.core.view.WindowInsetsCompat
 
 class MainActivity : AppCompatActivity() {
 
-    private lateinit var songTxt: EditText
+    private lateinit var songTxt: EditText // user will enter input on the songs they are looking for
     private lateinit var artistTxt: EditText
     private lateinit var rateTxt: EditText
     private lateinit var commentTxt: EditText
@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
         nextButton = findViewById(R.id.nextButton)
         exitButton = findViewById(R.id.exitButton)
 
-
+// user will click on the button and information will be displayed
         playlistButton.setOnClickListener {
         songTxt.visibility = View.VISIBLE
         artistTxt.visibility = View.VISIBLE
@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
         commentTxt.visibility = View.VISIBLE
 
         }
-
+//
         nextButton.setOnClickListener {
             startActivity(Intent(this,DetailedScreen::class.java))
         }

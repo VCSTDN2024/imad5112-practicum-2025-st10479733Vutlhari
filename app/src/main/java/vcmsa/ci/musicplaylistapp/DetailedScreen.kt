@@ -18,7 +18,7 @@ class DetailedScreen : AppCompatActivity() {
     private lateinit var listButton: Button
     private lateinit var avgButton: Button
     private lateinit var backButton: Button
-
+// Lists of songs
     private val songs = arrayOf(
         "Popstar",
         "Banana Clip",
@@ -27,7 +27,7 @@ class DetailedScreen : AppCompatActivity() {
         "BeckHam",
 
     )
-
+// List of artists
     private val artists = arrayOf(
         "Coco and Clair Clair",
         "Miguel",
@@ -35,7 +35,7 @@ class DetailedScreen : AppCompatActivity() {
         "Kevin Gates",
 
     )
-
+// List of ratings
     private val ratings = arrayOf(
         3,
         4,
@@ -85,6 +85,7 @@ class DetailedScreen : AppCompatActivity() {
             backButton.setOnClickListener {
                 startActivity(Intent(this, MainActivity::class.java))
             }
+        // Average will be calculated and displayed
         avgButton.setOnClickListener {
             var sum= 0
             for (num in ratings)
