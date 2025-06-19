@@ -17,3 +17,11 @@ the main screen and exit the app.
 This a link to my GitHub 
 GitHub - VCSTDN2024/imad5112-practicum-2025-st10479733Vutlhari: imad5112
 practicum-2025-st10479733Vutlhari created by GitHub Classroom
+
+![Screenshot 2025-06-19 143235](https://github.com/user-attachments/assets/cb197a7b-66c0-43d8-ad12-f75ddc4371d5
+)
+
+![Screenshot 2025-06-19 143945](https://github.com/user-attachments/assets/d7303c2f-80cf-4046-83c0-196ea01f03ef)
+
+![Screenshot 2025-06-19 143319](https://github.com/user-attachments/assets/0bb1eaea-e9c5-47ae-8d6d-9cd41d6d0cd7)
+
